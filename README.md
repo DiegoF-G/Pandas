@@ -5,5 +5,7 @@ This repository is about my study of Data Science from Alura platform with packa
 
 - The file "projeto imobiliaria.ipynb" is about tasks in a work of Data science in a real estate. This is the business case of this file.
 
-- The anothers files in shape "pandas0X.ipynb" are exercises with pandas package using others datasets.
+- The anothers files in shape "pandas0X.ipynb" are exercises with pandas package.
+
+- And it will have other files about functions and methods of Pandas objects.
 
